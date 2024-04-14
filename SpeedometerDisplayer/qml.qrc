@@ -1,0 +1,51 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>BottomBar.qml</file>
+        <file>FuelGuage.qml</file>
+        <file>KilometerBoard.qml</file>
+        <file>MainBoard.qml</file>
+        <file>RPMBoard.qml</file>
+        <file>Tempereture.qml</file>
+        <file>asset/Brake.png</file>
+        <file>asset/headlamp-removebg-preview (1).png</file>
+        <file>asset/parkinglight.png</file>
+        <file>asset/sitBelt1-removebg-preview.png</file>
+        <file>asset/tire-removebg-preview.png</file>
+        <file>asset/upward-arrow (1).png</file>
+        <file>asset/upward-arrow (2).png</file>
+        <file>asset/upward-arrow (3).png</file>
+        <file>asset/upward-arrow (4).png</file>
+        <file>asset/upward-arrow (5).png</file>
+        <file>asset/upward-arrow.png</file>
+        <file>asset/fast-forward (1).png</file>
+        <file>asset/fast-forward (2).png</file>
+        <file>asset/fast-forward (3).png</file>
+        <file>asset/fast-forward (5).png</file>
+        <file>asset/fast-forward (6).png</file>
+        <file>asset/fast-forward.png</file>
+        <file>GearIndicator.qml</file>
+        <file>TopBar.qml</file>
+        <file>asset/sitbelt2-removebg-preview.png</file>
+        <file>VehicleConfiguration.qml</file>
+        <file>ConfigurationPage.qml</file>
+        <file>asset/checked.png</file>
+        <file>asset/car-battery.png</file>
+        <file>asset/petrol-station (1).png</file>
+        <file>asset/petrol-station.png</file>
+        <file>asset/thermometer (1).png</file>
+        <file>asset/thermometer.png</file>
+        <file>ScreenForThemes.qml</file>
+        <file>EngineInfor.qml</file>
+        <file>asset/brush (1).png</file>
+        <file>asset/brush.png</file>
+        <file>asset/paint-brush.png</file>
+        <file>asset/paint-pallet.png</file>
+        <file>asset/palette.png</file>
+        <file>asset/watercolor.png</file>
+        <file>asset/circular.png</file>
+        <file>asset/info.png</file>
+        <file>asset/EngineInfor.qml</file>
+        <file>ColorPalette.qml</file>
+    </qresource>
+</RCC>
